@@ -208,28 +208,7 @@ emberfall/
 ```
 
 ---
-
-## Privacy and keys
-
-- **No secret keys are committed.** LLM keys and TURN relay URLs are typed in by each player and stay in that player's browser.
-- `index.html` contains a Supabase **publishable** key. Publishable keys are designed to be public; they only allow what the project's settings permit. Never commit a Supabase *secret* or *service_role* key.
-- In co-op, players can text and voice chat with each other. There is no moderation yet, so share room codes only with people you know.
-- The game is intended for players aged 13 and above (fantasy combat, live AI-generated dialogue, online chat).
-
----
-
-## Team
-
-Project Phase II, B.Tech. Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amaravati.
-
-- K. Sai Nikhila (AV.SC.U4CSE23119)
-- M.V.V.S Revanth (AV.SC.U4CSE23126)
-- D. Harika (AV.SC.U4CSE23155)
-- B. Jayadeep Yadav (AV.SC.U4CSE23102)
-
-**Guide:** Dr. K.S.L Prasanna, Assistant Professor, Amrita School of Computing.
-
----
+-
 
 ## Citation
 
