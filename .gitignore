@@ -1,0 +1,32 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (evaluation scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node (if tooling is added later)
+node_modules/
+
+# Secrets: never commit keys
+.env
+.env.*
+*.key
+secrets.*
+
+# Local study data (participant sessions may contain personal data)
+study-data/
+sessions/
+*.session.json
+
+# Office lock files
+~$*

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Emberfall 3D: Memory-Augmented Agentic NPCs for Persistent, Adaptive Conversations in Open-World RPGs"
+type: software
+authors:
+  - given-names: "K. Sai"
+    family-names: "Nikhila"
+    affiliation: "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amaravati"
+  - given-names: "M.V.V.S"
+    family-names: "Revanth"
+    affiliation: "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amaravati"
+  - given-names: "D."
+    family-names: "Harika"
+    affiliation: "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amaravati"
+  - given-names: "B. Jayadeep"
+    family-names: "Yadav"
+    affiliation: "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Amaravati"
+version: "32.0.0"
+date-released: "2026-11-06"
+license: MIT
+keywords:
+  - large language models
+  - non-player characters
+  - episodic memory
+  - affective computing
+  - retrieval
+  - game AI
+  - three.js
